@@ -15,3 +15,5 @@ https://www.securityweek.com/chinese-hackers-spy-us-law-firm-major-norwegian-msp
 https://www.wired.com/story/chinese-hackers-carrier-metadata/ - this is chinese, but exact APT is a guess based on malware
 
 https://www.securityweek.com/telcos-pwned-multi-wave-attacks-stealing-obscene-amount-data-providers - others think stone panda too
+
+https://www.reuters.com/investigates/special-report/china-cyber-cloudhopper/
