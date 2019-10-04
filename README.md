@@ -21,6 +21,4 @@ https://www.reuters.com/investigates/special-report/china-cyber-cloudhopper/
 
 https://www.cyberscoop.com/apt-10-utilities-phishing-proofpoint/ - possible
 
-https://www.securityweek.com/airbus-says-taking-appropriate-measures-against-hackers
 
-https://www.securityweek.com/hackers-target-airbus-suppliers-quest-commercial-secrets
