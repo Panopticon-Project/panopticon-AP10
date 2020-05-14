@@ -22,3 +22,5 @@ https://www.reuters.com/investigates/special-report/china-cyber-cloudhopper/
 https://www.cyberscoop.com/apt-10-utilities-phishing-proofpoint/ - possible
 
 https://www.virusbulletin.com/blog/2020/03/vb2019-paper-defeating-apt10-compiler-level-obfuscations/
+
+https://lab52.io/blog/the-energy-reserves-in-the-eastern-mediterranean-sea-and-a-malicious-campaign-of-apt10-against-turkey/
