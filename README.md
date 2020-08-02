@@ -24,3 +24,7 @@ https://www.cyberscoop.com/apt-10-utilities-phishing-proofpoint/ - possible
 https://www.virusbulletin.com/blog/2020/03/vb2019-paper-defeating-apt10-compiler-level-obfuscations/
 
 https://lab52.io/blog/the-energy-reserves-in-the-eastern-mediterranean-sea-and-a-malicious-campaign-of-apt10-against-turkey/
+
+https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32020D1127&from=EN
+
+https://www.consilium.europa.eu/en/press/press-releases/2020/07/30/eu-imposes-the-first-ever-sanctions-against-cyber-attacks/
