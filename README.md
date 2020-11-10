@@ -28,3 +28,5 @@ https://lab52.io/blog/the-energy-reserves-in-the-eastern-mediterranean-sea-and-a
 https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32020D1127&from=EN
 
 https://www.consilium.europa.eu/en/press/press-releases/2020/07/30/eu-imposes-the-first-ever-sanctions-against-cyber-attacks/
+
+https://www.welivesecurity.com/wp-content/uploads/2020/10/ESET_Threat_Report_Q32020.pdf
