@@ -32,3 +32,5 @@ https://www.consilium.europa.eu/en/press/press-releases/2020/07/30/eu-imposes-th
 https://www.welivesecurity.com/wp-content/uploads/2020/10/ESET_Threat_Report_Q32020.pdf
 
 https://www.securityweek.com/chinese-hackers-target-japanese-organizations-large-scale-campaign
+
+https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/cicada-apt10-japan-espionage
