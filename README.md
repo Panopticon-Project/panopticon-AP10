@@ -38,3 +38,5 @@ https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/cicada-
 https://media.kasperskydaily.com/wp-content/uploads/sites/86/2021/02/25140359/greatidea_A41_v1.0.pdf
 
 https://securelist.com/apt10-sophisticated-multi-layered-loader-ecipekac-discovered-in-a41apt-campaign/101519/
+
+https://thehackernews.com/2021/03/hackers-are-implanting-multiple.html
