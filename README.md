@@ -40,3 +40,5 @@ https://media.kasperskydaily.com/wp-content/uploads/sites/86/2021/02/25140359/gr
 https://securelist.com/apt10-sophisticated-multi-layered-loader-ecipekac-discovered-in-a41apt-campaign/101519/
 
 https://thehackernews.com/2021/03/hackers-are-implanting-multiple.html
+
+https://securityaffairs.co/wordpress/128273/apt/apt10-targets-taiwan-financial-trading.html?utm_source=rss
