@@ -42,3 +42,5 @@ https://securelist.com/apt10-sophisticated-multi-layered-loader-ecipekac-discove
 https://thehackernews.com/2021/03/hackers-are-implanting-multiple.html
 
 https://securityaffairs.co/wordpress/128273/apt/apt10-targets-taiwan-financial-trading.html?utm_source=rss
+
+https://www.securityweek.com/symantec-chinese-apt-group-targeting-global-msps
