@@ -46,3 +46,7 @@ https://securityaffairs.co/wordpress/128273/apt/apt10-targets-taiwan-financial-t
 https://www.securityweek.com/symantec-chinese-apt-group-targeting-global-msps
 
 https://i.blackhat.com/Asia-22/Friday-Materials/AS-22-Li-To-Loot-Or-Not-To-Loot-That-Is-Not-a-Question.pdf
+
+https://www.trendmicro.com/ja_jp/research/21/l/Sigloader-by-Earth-Tengshe.html
+
+https://jsac.jpcert.or.jp/archive/2022/pdf/JSAC2022_9_yanagishita-tamada-nakatsuru-ishimaru_en.pdf
