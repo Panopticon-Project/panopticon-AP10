@@ -33,6 +33,10 @@ https://www.welivesecurity.com/wp-content/uploads/2020/10/ESET_Threat_Report_Q32
 
 https://www.securityweek.com/chinese-hackers-target-japanese-organizations-large-scale-campaign
 
+https://securelist.com/apt10-tracking-down-lodeinfo-2022-part-i/107742/
+
+https://securelist.com/apt10-tracking-down-lodeinfo-2022-part-ii/107745/
+
 https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/cicada-apt10-japan-espionage
 
 https://media.kasperskydaily.com/wp-content/uploads/sites/86/2021/02/25140359/greatidea_A41_v1.0.pdf
